@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.10.4] - XX/XX/2025
+
+**Improved:**
+* Updated ReadMe
+
+## [1.10.3] - 04/09/2025
+
+**Improved:**
+* Updated ReadMe
+* Minor Web Page Builder UI updates
+
+**Bugfix:**
+* Set margin instead of padding for images contained in columns
+* Adjust h4 link color for dark mode
+* Update Table of Contents CSS to Docsify Starter Kits CSS
+
+## [1.10.2] - 03/04/2025
+
+**Improved:**
+* Various minor enhancements to Search plugin
+* Updated ReadMe
+* Underscores may be used to represent spaces in URL parameters, in addition to the standard encoded value of %20 (thanks to a helpful discussion with @davidmalawey)
+* Adjusted default behaviour of image grid to add needed whitespace (padding) instead of cropping when source images are of different sizes (thanks to a helpful discussion with @davidmalawey)
+
+**Bugfix:**
+* Fixed incorrect theme CSS with regards to image scaling (with thanks and appreciation to @harlows for the PR)
+
 ## [1.10.1] - 02/01/2025🍁
 
 **New:**
